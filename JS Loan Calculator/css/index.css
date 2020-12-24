@@ -1,0 +1,23 @@
+body{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.output{
+    font-weight: bold;
+}
+#payment{
+    text-decoration: underline;
+}
+#graph{
+    border: solid black 1px;
+}
+th,td{
+    vertical-align: top;
+}
+#graph{
+    width: 440px;
+    height: 250px;
+}
